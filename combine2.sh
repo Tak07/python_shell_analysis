@@ -1,5 +1,5 @@
 #Add header to chromosome gene data
-#Last modified: Fri Dec 9. 2016
+#Last modified: Fri Dec 10. 2016
 
 echo "Starting combining script"
 for file in "$@"                                    #@ is a variable that stores all inputs to a script. So "$@" in our script specifies all the input values typed in after combine.sh
